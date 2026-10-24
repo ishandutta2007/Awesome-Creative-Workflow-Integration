@@ -34,77 +34,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The creative workflow and production management software sector represents an estimated global market size of approximately $10B to $15B, expanding at a ~11–12% CAGR driven by distributed production pipelines, remote review demands, and rich-media asset scaling. The market is moderately concentrated among dominant ecosystem anchor platforms (such as Apple, Adobe, and Autodesk) for core non-linear editing and DCC suites, while remaining fragmented across specialized production tracking, review/approval, and plug-in niche solutions that integrate via open or standard pipeline APIs.
 
 ## SaaS/Hosted Platforms
 
-- **[Adobe Dynamic Link](https://www.adobe.com/products/premiere/features.html)**  
-
-  Seamless inter-application linking between Premiere Pro, After Effects, and other Adobe apps for non-destructive round-tripping of compositions and timelines.
-
-
-
-- **[Blackmagic Fusion Studio / DaVinci Resolve Fusion Connect](https://www.blackmagicdesign.com/products/fusion)**  
-
-  Node-based compositing tightly integrated with DaVinci Resolve for advanced VFX, motion graphics, and color workflows within a unified environment.
-
-
-
-- **[Apple Final Cut Pro + Compressor](https://www.apple.com/final-cut-pro/)**  
-
-  Native Mac video editing with deep integration to Compressor for encoding, delivery, and media management pipelines.
-
-
-
-- **[Autodesk ShotGrid (Flow Production Tracking)](https://www.autodesk.com/products/flow-production-tracking)**  
-
-  Industry-standard production tracking and review platform for VFX, animation, and games, covering shots, assets, tasks, and client feedback.
-
-
-
-- **[Frame.io](https://frame.io/)**  
-
-  Cloud-based video review and collaboration platform with frame-accurate comments, version comparison, and tight integrations into editing and finishing tools.
-
-
-
-- **[ftrack Studio](https://www.ftrack.com/)**  
-
-  Production tracking and collaboration platform focused on creative pipelines, with strong review, scheduling, and DCC integrations.
-
-
-
-- **[Nuke Studio Workflow](https://www.foundry.com/products/nuke)**  
-
-  Editorial and finishing tools inside Nuke Studio that link compositing, editorial, and review workflows for high-end VFX pipelines.
-
-
-
-- **[Boris FX Mocha Pro Link](https://borisfx.com/products/mocha-pro/)**  
-
-  Planar tracking and rotoscoping tool with deep linking into host applications for seamless tracking data exchange.
-
-
-
-- **[Avid Interplay](https://www.avid.com/products/interplay)**  
-
-  Media asset management and workflow system designed for broadcast and post-production environments with collaborative editing support.
-
-
-
-- **[DaVinci Resolve Studio Integrations](https://www.blackmagicdesign.com/products/davinciresolve)**  
-
-  Built-in Fusion, Fairlight, and Color pages plus external tool connections that create a highly integrated post-production suite.
-
-
+| Company Size (Revenue / Valuation) | Product | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **~$3.0T+ Market Cap** (~$391B Rev) | **[Apple Final Cut Pro + Compressor](https://www.apple.com/final-cut-pro/)** | Native Mac video editing with deep integration to Compressor for encoding, delivery, and media management pipelines. | $299.99 one-time purchase (Final Cut Pro) + $49.99 (Compressor); or $12.99/mo via Apple Creator Studio | 30-day free trial (via Apple Creator Studio); 1-month free trial on iPadOS |
+| **~$220B+ Market Cap** (~$21.4B Rev) | **[Adobe Dynamic Link](https://www.adobe.com/products/premiere/features.html)** | Seamless inter-application linking between Premiere Pro, After Effects, and other Adobe apps for non-destructive round-tripping of compositions and timelines. | $22.99/mo (Single App annual paid monthly) or $59.99/mo (Creative Cloud All Apps) | 7-day free trial with full desktop feature access and cloud syncing (1 trial per user) |
+| **~$220B+ Market Cap** (~$21.4B Rev) | **[Frame.io](https://frame.io/)** | Cloud-based video review and collaboration platform with frame-accurate comments, version comparison, and tight integrations into editing and finishing tools. | $15/user/month (Pro plan billed monthly, $13/user/month billed annually) | Free-forever plan limited to 2 team members, 2 active projects, 2 GB cloud storage, and 1080p web playback |
+| **~$65B+ Market Cap** (~$6.1B Rev) | **[Autodesk ShotGrid (Flow Production Tracking)](https://www.autodesk.com/products/flow-production-tracking)** | Industry-standard production tracking and review platform for VFX, animation, and games, covering shots, assets, tasks, and client feedback. | $50/user/month (monthly subscription) or $33/user/month ($390/user/year billed annually) | 30-day free trial with full production tracking, shot/asset management, and RV player integration |
+| **~$3B Valuation** (~$576M Rev) | **[Blackmagic Fusion Studio / DaVinci Resolve Fusion Connect](https://www.blackmagicdesign.com/products/fusion)** | Node-based compositing tightly integrated with DaVinci Resolve for advanced VFX, motion graphics, and color workflows within a unified environment. | $295 one-time perpetual license (includes Fusion Studio and DaVinci Resolve Studio) | Free-forever tier (DaVinci Resolve) capped at UHD 3840x2160 export, 60 fps, single GPU, excluding Neural Engine AI tools and advanced Resolve FX |
+| **~$3B Valuation** (~$576M Rev) | **[DaVinci Resolve Studio Integrations](https://www.blackmagicdesign.com/products/davinciresolve)** | Built-in Fusion, Fairlight, and Color pages plus external tool connections that create a highly integrated post-production suite. | $295 one-time perpetual license (no subscription required) | Free-forever tier (DaVinci Resolve) capped at UHD 3840x2160 export, 60 fps, single GPU, excluding Neural Engine AI tools and advanced Resolve FX |
+| **~$1.4B Valuation** (~$417M Rev) | **[Avid Interplay](https://www.avid.com/products/interplay)** | Media asset management and workflow system designed for broadcast and post-production environments with collaborative editing support. | Starting from $23.99/mo (Media Composer Standard) to $49.99/mo (Media Composer Ultimate); MediaCentral/Interplay enterprise deployments via custom reseller quote | 30-day free trial for Media Composer Ultimate; enterprise MediaCentral/Interplay backend requires contact for demo / custom proof-of-concept |
+| **~$665M Valuation** (~$85M Rev) | **[Nuke Studio Workflow](https://www.foundry.com/products/nuke)** | Editorial and finishing tools inside Nuke Studio that link compositing, editorial, and review workflows for high-end VFX pipelines. | $499/year (Nuke Indie for artists under $200k/yr revenue); $6,379/year (Full commercial Nuke Studio subscription) | 30-day free trial with full unrestricted access to Nuke Studio; unlimited free Non-Commercial version capped at 1080p export with watermarking |
+| **~$200M+ PE Backing** (~$5M Rev) | **[ftrack Studio](https://www.ftrack.com/)** | Production tracking and collaboration platform focused on creative pipelines, with strong review, scheduling, and DCC integrations. | $25/user/month (billed annually) or $30/user/month (billed monthly) for ftrack Studio | 14-day free trial with unrestricted tracking and review features, 250 GB review storage, and unlimited client guest reviewers |
+| **~$8M–$12M Rev** (Privately held) | **[Boris FX Mocha Pro Link](https://borisfx.com/products/mocha-pro/)** | Planar tracking and rotoscoping tool with deep linking into host applications for seamless tracking data exchange. | $48/mo or $325/year (Single Host plug-in subscription); $64/mo or $435/year (Multi-Host) | 14-day free trial with full planar tracking, PowerMesh, and removal toolset; reverts to watermarked / restricted output mode upon expiration |
 
 ## Open-Source GitHub Projects
 
