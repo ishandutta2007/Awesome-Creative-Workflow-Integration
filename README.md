@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Creative-Workflow-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Workflow-Integration?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Workflow-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Workflow-Integration?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Workflow-Integration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Creative-Workflow-Integration?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Workflow-Integration/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Creative-Workflow-Integration?color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,7 +65,7 @@ The market structure features **moderate consolidation** at the top tier:
 
 ## 🌟 Open-Source GitHub Projects
 
-The visual effects and animation industries rely heavily on open-source standards to maintain vendor neutrality and data autonomy. Below are the top open-source creative pipeline projects, **ranked by GitHub Stars in descending order**:
+The visual effects and animation industries rely heavily on open-source standards to maintain vendor neutrality and data autonomy. Below are the top open-source creative pipeline projects, **ranked by GitHub_Stars in descending order**:
 
 ### Open-Source Pipeline Comparison & Star Rankings
 
@@ -123,9 +123,9 @@ When building an enterprise-grade studio pipeline from scratch using open-source
 We welcome contributions from pipeline technical directors, artists, and software developers worldwide! 🌍
 
 1. **Fork** the repository: `git checkout -b feature/new-pipeline-tool`
-2. **Add / Update** entries in `README.md` keeping the Markdown table and star badge standards intact.
+2. **Add / Update** entries in `README.md` keeping the Markdown table and Stars_Badge standards intact.
 3. Ensure every commercial product includes verified **starting tier pricing** and explicit **free tier/trial limitations**.
-4. Ensure open-source projects include official URLs and the standard star badge syntax.
+4. Ensure open-source projects include official URLs and the standard Stars_Badge syntax.
 5. **Commit** and submit a **Pull Request** with a concise description of your changes.
 
 ---
